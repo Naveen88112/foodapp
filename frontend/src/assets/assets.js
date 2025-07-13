@@ -52,6 +52,21 @@ import food_38 from './food_38.png'
 import food_39 from './food_39.png'
 import food_40 from './food_40.png'
 import food_41 from './food_41.png'
+import food_42 from './food_42.png'
+import food_43 from './food_43.png'
+import food_44 from './food_44.png'
+import food_45 from './food_45.png'
+import food_46 from './food_46.png'
+import food_47 from './food_47.png'
+import food_48 from './food_48.png'
+import food_49 from './food_49.png'
+import food_50 from './food_50.png'
+import food_51 from './food_51.png'
+import food_52 from './food_52.png'
+import food_53 from './food_53.png'
+import food_54 from './food_54.png'
+import food_55 from './food_55.png'
+import food_56 from './food_56.png'
 
 
 import add_icon_white from './add_icon_white.png'
@@ -419,5 +434,110 @@ export const food_list = [
         price: 149,
         description: "Soft rolls filled with gooey, melted cheese for a rich and savory treat.",
         category: "Rolls"
+    },{
+        _id: "42",
+        name: "Egg Salad",
+        image: food_42,
+        price: 199,
+        description: "A creamy and tangy mix of chopped hard-boiled eggs, mayonnaise, and seasonings, perfect for sandwiches or a light meal.",
+        category: "Salad"
+    },{
+        _id: "43",
+        name: "Avocado Salad",
+        image: food_43,
+        price: 249,
+        description: "A fresh and vibrant mix of ripe avocados, veggies, and a zesty dressing, perfect for a healthy bite.",
+        category: "Salad"
+    },{
+        _id: "44",
+        name: "Chicken Shawarma Roll",
+        image: food_44,
+        price: 299,
+        description: "A flavorful Middle Eastern wrap filled with spiced grilled chicken, garlic sauce, and fresh veggies.",
+        category: "Rolls"
+    },{
+        _id: "45",
+        name: "Black Currant",
+        image: food_45,
+        price: 99,
+        description: "A tangy and sweet berry known for its deep purple color and rich antioxidant content.",
+        category: "Deserts"
+    },{
+        _id: "46",
+        name: "Red Velvet",
+        image: food_46,
+        price: 99,
+        description: "A soft and moist cake with a hint of cocoa, known for its vibrant red color and creamy cream cheese frosting.",
+        category: "Deserts"
+    },{
+        _id: "47",
+        name: "Egg Sandwich",
+        image: food_47,
+        price: 169,
+        description: "A simple and satisfying sandwich made with cooked eggs, often combined with mayo, cheese, and veggies between slices of bread.",
+        category: "Sandwich"
+    },{
+        _id: "48",
+        name: "Avocado Sandwich",
+        image: food_48,
+        price: 169,
+        description: "A nutritious sandwich featuring creamy avocado slices, often paired with veggies, cheese, or eggs on toasted bread.",
+        category: "Sandwich"
+    },{
+        _id: "49",
+        name: "Chocolate Ice Cream Cake",
+        image: food_49,
+        price: 599,
+        description: "A rich and indulgent dessert combining layers of moist chocolate cake and creamy chocolate ice cream.",
+        category: "Cake"
+    },{
+        _id: "50",
+        name: "Oreo Cake",
+        image: food_50,
+        price: 699,
+        description: "A decadent cake layered or topped with crushed Oreo cookies and creamy frosting, perfect for cookie lovers.",
+        category: "Cake"
+    },{
+        _id: "51",
+        name: "Dosa",
+        image: food_51,
+        price: 69,
+        description: "A crispy, golden South Indian crepe made from fermented rice and lentil batter, often served with chutney and sambar.",
+        category: "Pure Veg"
+    },{
+        _id: "52",
+        name: "Idly",
+        image: food_52,
+        price: 59,
+        description: "A soft and fluffy South Indian steamed rice cake, typically served with chutney and sambar for breakfast.",
+        category: "Pure Veg"
+    },{
+        _id: "53",
+        name: "White Sauce Pasta",
+        image: food_53,
+        price: 199,
+        description: "A creamy and cheesy pasta dish made with a rich white sauce of butter, milk, and flour, often mixed with veggies or meat.",
+        category: "Pasta"
+    },{
+        _id: "54",
+        name: "Italian Pasta",
+        image: food_54,
+        price: 249,
+        description: "A classic Italian dish made with durum wheat noodles, paired with flavorful sauces like tomato, pesto, or Alfredo.",
+        category: "Pasta"
+    },{
+        _id: "55",
+        name: "Schezwan Chicken Noodles",
+        image: food_55,
+        price: 299,
+        description: "Spicy and savory Indo-Chinese noodles tossed with stir-fried chicken, veggies, and bold Schezwan sauce.",
+        category: "Noodles"
+    },{
+        _id: "56",
+        name: "Thai Chicken Noodles",
+        image: food_56,
+        price: 329,
+        description: "A flavorful Thai dish featuring stir-fried noodles with tender chicken, vegetables, and a balance of sweet, spicy, and tangy sauces.",
+        category: "Noodles"
     }
 ]
