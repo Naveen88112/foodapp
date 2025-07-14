@@ -532,5 +532,12 @@ export const food_list = [
         price: 299,
         description: "Spicy and savory Indo-Chinese noodles tossed with stir-fried chicken, veggies, and bold Schezwan sauce.",
         category: "Noodles"
+    },{
+        _id: "56",
+        name: "Thai Chicken Noodles",
+        image: food_56,
+        price: 329,
+        description: "A flavorful Thai dish featuring stir-fried noodles with tender chicken, vegetables, and a balance of sweet, spicy, and tangy sauces.",
+        category: "Noodles"
     }
 ]
